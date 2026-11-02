@@ -5,28 +5,28 @@
       "name": "클래식 연장",
       "price": "",
       "description": "",
-      "photos": []
+      "photos": ["photos/classic/test1.jpg"]
     },
     {
       "id": "mascara",
       "name": "마스카라 연장",
       "price": "",
       "description": "",
-      "photos": []
+      "photos": ["photos/mascara/test2.jpg"]
     },
     {
       "id": "perm",
       "name": "속눈썹 펌",
       "price": "",
       "description": "",
-      "photos": []
+      "photos": ["photos/perm/test3.jpg"]
     },
     {
       "id": "point",
       "name": "펌포인트",
       "price": "",
       "description": "",
-      "photos": []
+      "photos": ["photos/point/test4.jpg"]
     }
   ]
 }

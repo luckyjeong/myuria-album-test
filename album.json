@@ -12,7 +12,7 @@
       "name": "마스카라 연장",
       "price": "50000",
       "description": "마연",
-      "photos": ["photos/mascara/test4.jpg"]
+      "photos": ["photos/mascara/test4.png"]
     },
     {
       "id": "perm",
@@ -26,7 +26,7 @@
       "name": "펌포인트",
       "price": "50000",
       "description": "펌포",
-      "photos": ["photos/point/test2.jpg"]
+      "photos": ["photos/point/test2.png"]
     }
   ]
 }

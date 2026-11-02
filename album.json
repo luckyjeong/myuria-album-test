@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "classic",
+      "name": "클래식 연장",
+      "price": "",
+      "description": "",
+      "photos": []
+    },
+    {
+      "id": "mascara",
+      "name": "마스카라 연장",
+      "price": "",
+      "description": "",
+      "photos": []
+    },
+    {
+      "id": "perm",
+      "name": "속눈썹 펌",
+      "price": "",
+      "description": "",
+      "photos": []
+    },
+    {
+      "id": "point",
+      "name": "펌포인트",
+      "price": "",
+      "description": "",
+      "photos": []
+    }
+  ]
+}

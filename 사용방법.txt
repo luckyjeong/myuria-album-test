@@ -1,0 +1,11 @@
+MYURIA 쉬운 앨범 관리
+
+1. photos 폴더 내 classic, mascara, perm, point 폴더에 사진을 넣습니다.
+2. 관리화면.html을 크롬에서 더블클릭해서 엽니다.
+3. 사진 폴더 선택을 눌러 photos 폴더를 선택합니다.
+4. 가격과 설명을 입력합니다.
+5. 웹앨범 ZIP 만들기를 누릅니다.
+6. myuria-cloudflare-upload.zip을 Cloudflare Pages의 기존 프로젝트 > Deployments > Create deployment > Production에 업로드합니다.
+7. 다음 수정 때 가격 설명은 설정 백업 JSON 저장 > 불러오기를 사용하세요. 사진은 폴더에서 다시 선택해야 합니다.
+
+주의: 이 ZIP은 사진이 없어도 사진 폴더 구조만 제공하며, 고객에게 보이는 앨범은 ZIP 생성 후 Cloudflare에 업로드해야 합니다.
